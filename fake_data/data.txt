@@ -1,0 +1,8 @@
+
+    number_card = "7569 8660 7644 9193"
+    validity = "5/23"
+    name = "Stanley Moore"
+    cvv = "731"
+    ###########
+    age = September 15 2003
+    
