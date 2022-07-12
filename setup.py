@@ -61,3 +61,5 @@ elif A == '3':
     print('create data.txt')
     print('face - https://thispersondoesnotexist.com/')
     os.system('python setup.py')
+elif A == '4':
+    None
